@@ -1,4 +1,4 @@
-# Foobar
+# Multiple NodeJS version setup
 
 Multiple NodeJS version setup. The shell script (setnode.sh) helps to switch between nodejs version quickly. 
 
